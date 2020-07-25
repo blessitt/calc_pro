@@ -1,0 +1,9 @@
+C:\Users\mscsc\source\repos\calc_pro_ns\calc_pro\bin\Debug\calc_pro.exe.config
+C:\Users\mscsc\source\repos\calc_pro_ns\calc_pro\bin\Debug\calc_pro.exe
+C:\Users\mscsc\source\repos\calc_pro_ns\calc_pro\bin\Debug\calc_pro.pdb
+C:\Users\mscsc\source\repos\calc_pro_ns\calc_pro\obj\Debug\calc_pro.Form1.resources
+C:\Users\mscsc\source\repos\calc_pro_ns\calc_pro\obj\Debug\calc_pro.Properties.Resources.resources
+C:\Users\mscsc\source\repos\calc_pro_ns\calc_pro\obj\Debug\calc_pro.csproj.GenerateResource.cache
+C:\Users\mscsc\source\repos\calc_pro_ns\calc_pro\obj\Debug\calc_pro.csproj.CoreCompileInputs.cache
+C:\Users\mscsc\source\repos\calc_pro_ns\calc_pro\obj\Debug\calc_pro.exe
+C:\Users\mscsc\source\repos\calc_pro_ns\calc_pro\obj\Debug\calc_pro.pdb
